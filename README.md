@@ -1,25 +1,7 @@
-<h1>Hi, I'm Jon! <br/><a href="https://github.com/jwinn91">IT Professional</a>, <a href="https://www.linkedin.com/in/jwicky/">Cybersecurity Professional</a></a></h1>
+Hello!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+this is my Github for cybersecurity related projects.
 
-<h2> 🤳 Connect with me:</h2>
+connect with me on Linkedin @: https://www.linkedin.com/in/jwicky/
 
-
-[<img align="left" alt="Jonathan Winnick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/jwicky
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
