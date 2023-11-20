@@ -4,6 +4,7 @@
 
 - <b>Cloud/SOC Projects</b>
   - [Azure mini SOC/Honeynet live attack Traffic](https://github.com/jwinn91/Cloud_Projects)
+  - [Azure OpenVAS Vulnerability Management](https://github.com/jwinn91/Cloud_Projects)
 - <b>Powershell</b>
 
 
