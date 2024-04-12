@@ -6,7 +6,7 @@
   - [Azure mini SOC/Honeynet live attack Traffic](https://github.com/jwinn91/Cloud_Projects)
   - [Azure OpenVAS Vulnerability Management](https://github.com/jwinn91/Cloud_Projects)
 - <b>Powershell</b>
-
+- [Adding PC to Domain and changing PC name](https://github.com/jwinn91/Pshellscripts/edit/main/README.md)
 
 
 <h2> 🤳 Connect with me:</h2>
